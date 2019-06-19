@@ -24,7 +24,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 ### Installation
 
 ```
-source("https://install-github.me/xiaowangCN/GeneDMRs")
+source("https://install-github.me/QSG-Group/GeneDMRs")
 ```
 
 or
@@ -32,7 +32,7 @@ or
 ```
 library("devtools")
 
-install_github("xiaowangCN/GeneDMRs")
+install_github("QSG-Group/GeneDMRs")
 ```
 
 ### User manual
